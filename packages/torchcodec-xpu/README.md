@@ -1,4 +1,4 @@
-# Intel Plugin for TorchCodec
+# Intel Plugin for TorchCodec.
 
 ## Overview
 
